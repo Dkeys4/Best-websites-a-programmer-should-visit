@@ -61,6 +61,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Stack Exchange](https://stackexchange.com/) : Stack Exchange is the combination of Stack Overflow and 170+ sites where you can get any kinds of help
 - [Coderanch](https://coderanch.com/) : A friendly place for programming greenhorns. Jump straight into any of our topics and light hearted discussions. Ranging from Java, Databases, Android, Programmer certification, Programming jobs and much more...
 
+- [coding with Mosh] https://github.com/sdmg15/Best-websites-a-programmer-should-visit : This teacher takes difficult concepts and manages to make it practical- extremely helpful for new coders.
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
